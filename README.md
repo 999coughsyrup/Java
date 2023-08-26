@@ -1,5 +1,3 @@
-package zong_he_jian_ce;
-
 import java.util.Random;
 import java.util.Scanner;
 
